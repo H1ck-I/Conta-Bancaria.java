@@ -30,3 +30,13 @@ Entrada de dados com Scanner
 Estruturas condicionais
 
 Organização de código em arquivos separados
+
+⭐ Como contribuir
+
+Fique à vontade para:
+
+Abrir issues
+
+Enviar pull requests
+
+Sugerir melhorias
